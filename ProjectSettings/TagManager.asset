@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin_Map
+  - Surprise
+  - Boss
+  - Boss_Life_Lose_B
+  - Coin_Portal
+  - Infinity_Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Spike
+  - Finish
+  - Double_Jump
+  - Boss
+  - Player
+  - Boss_Ghost_Block
+  - Attacked
+  - Boss_Life_Lose_Mode
+  - Life_Lose_Block
+  - Crush_Spike
+  - Ghost
+  - Cub_P
+  - Boss_Cub
+  - Coin_Portal
+  - Rain_Spike
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
